@@ -1,0 +1,59 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\backgrounds\purple.png
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\1.png
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\2.png
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\3.png
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\4.png
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\5.png
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\laser.png
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\player.png
+C:\Users\Korisnik\Desktop\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\backgrounds\purple.png
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\1.png
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\2.png
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\3.png
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\4.png
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\5.png
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\laser.png
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\sprites\player.png
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Korisnik\Desktop\FAKS\INF\Space_Shooter\Projekt(3)\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
